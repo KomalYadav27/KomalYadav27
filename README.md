@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Komal Yadav
 - 👀 I’m interested in Analytics
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently learning SQL and Excel
 - 💞️ I’m looking to collaborate on Data Analytics and Business Analytics projects.
 - 📫 How to reach me: komalalld27@gmail.com
 
